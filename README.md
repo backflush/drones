@@ -24,7 +24,7 @@ And you can use this project as you wish!
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/souzawesley/drones.git
+$ git clone https://github.com/SouzaWesley/drones.git
 
 $ cd dronesClone
 ```

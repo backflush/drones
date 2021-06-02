@@ -1,4 +1,4 @@
-# Drones
+# DRONE.SERIES
 ![Preview-Screen](./assets/dronesCover.png)
 
 ## About this project

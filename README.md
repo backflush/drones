@@ -5,7 +5,7 @@
 
 The idea of the application is:
 
-_"It's a simple page"_
+_"It's a simple page to show the drone series event."_
 
 ## Why?
 
@@ -13,7 +13,7 @@ This project is part of my personal portfolio, it was developed during a course,
 
 Reach me at: bwesleysouza@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/).
+Connect with me at [LinkedIn](https://www.linkedin.com/in/bwesleysouza).
 
 And you can use this project as you wish!
 
@@ -24,7 +24,7 @@ And you can use this project as you wish!
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/SouzaWesley/drones.git
+$ git clone git@github.com:SouzaWesley/drones.git
 
 $ cd dronesClone
 ```
@@ -45,7 +45,7 @@ Reach me at: bwesleysouza@gmail.com
 
 _or_
 
-Try it: [LinkedIn](https://www.linkedin.com/in/)
+Try it: [LinkedIn](https://www.linkedin.com/in/bwesleysouza)
 
 Thank you!
 
